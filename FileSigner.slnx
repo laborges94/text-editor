@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FileSigner/FileSigner.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FileSigner.Tests/FileSigner.Tests.csproj" />
+  </Folder>
+</Solution>
